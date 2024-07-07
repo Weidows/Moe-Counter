@@ -4,7 +4,7 @@ compatibility_date = "2024-02-27"
 workers_dev = false
 
 [[routes]]
-pattern = "moe-counter.lxchapu.com"
+pattern = "moe.counter.weidows.tech"
 custom_domain = true
 
 [build]
@@ -12,5 +12,5 @@ command = "npm run build"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "count"
-database_id = "08323087-a0a9-44cb-a940-c82df8945a47"
+database_name = "moe-counter"
+database_id = "00b1f08c-2fba-402d-80f3-7debf4b3938e"

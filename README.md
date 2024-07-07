@@ -27,13 +27,13 @@
 
 ## Demo
 
-<https://moe-counter.lxchapu.com>
+<https://moe.counter.weidows.tech>
 
 ## Usage
 
 **自己部署**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lxchapu/moe-counter)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Weidows/moe-counter)
 
 - 分叉这个仓库
 - 在 [Cloudflare D1](https://developers.cloudflare.com/d1/) 创建一个数据库
